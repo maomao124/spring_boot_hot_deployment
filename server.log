@@ -1,1 +1,9 @@
-2022-04-11 13:11:35.849  INFO 2616 --- [main] .SpringBootHotDeploymentApplicationTests : Started SpringBootHotDeploymentApplicationTests in 1.652 seconds (JVM running for 2.461)
+2022-04-11 13:20:50.033 DEBUG 14012 --- [SpringApplicationShutdownHook] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2022-04-11 13:20:50.034 DEBUG 14012 --- [SpringApplicationShutdownHook] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1b9f99fb, started on Mon Apr 11 13:20:07 CST 2022
+2022-04-11 13:20:50.034 DEBUG 14012 --- [SpringApplicationShutdownHook] ySourcesPropertyResolver$DefaultResolver : Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2022-04-11 13:20:50.035 DEBUG 14012 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2022-04-11 13:20:50.035 DEBUG 14012 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'webServerGracefulShutdown' completed its stop procedure
+2022-04-11 13:20:50.035 DEBUG 14012 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483646
+2022-04-11 13:20:50.049 DEBUG 14012 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'webServerStartStop' completed its stop procedure
+2022-04-11 13:20:50.049 DEBUG 14012 --- [SpringApplicationShutdownHook] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2022-04-11 13:20:50.049 DEBUG 14012 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
