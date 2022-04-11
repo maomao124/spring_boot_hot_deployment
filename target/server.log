@@ -1,3 +1,5 @@
-2022-04-11 13:30:30.629  INFO 12776 --- [main] m.s.SpringBootHotDeploymentApplication   : Started SpringBootHotDeploymentApplication in 2.349 seconds (JVM running for 2.721)
-2022-04-11 13:30:30.633 DEBUG 12776 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
-2022-04-11 13:30:30.637 DEBUG 12776 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2022-04-11 13:32:22.183  INFO 13916 --- [main] m.s.SpringBootHotDeploymentApplication   : Started SpringBootHotDeploymentApplication in 2.312 seconds (JVM running for 2.686)
+2022-04-11 13:32:22.188 DEBUG 13916 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2022-04-11 13:32:22.191 DEBUG 13916 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2022-04-11 13:33:21.809 DEBUG 13916 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1649655201809 sessioncount 0
+2022-04-11 13:33:21.809 DEBUG 13916 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 0 expired sessions: 0
